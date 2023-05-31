@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qvision-cc/static/css/main.081079ca.css",
+    "main.js": "/qvision-cc/static/js/main.29f70344.js",
+    "static/js/787.75dd81be.chunk.js": "/qvision-cc/static/js/787.75dd81be.chunk.js",
+    "index.html": "/qvision-cc/index.html",
+    "main.081079ca.css.map": "/qvision-cc/static/css/main.081079ca.css.map",
+    "main.29f70344.js.map": "/qvision-cc/static/js/main.29f70344.js.map",
+    "787.75dd81be.chunk.js.map": "/qvision-cc/static/js/787.75dd81be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081079ca.css",
+    "static/js/main.29f70344.js"
+  ]
+}
